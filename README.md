@@ -71,5 +71,4 @@ World Weather Repository: https://www.kaggle.com/datasets/nelgiriyewithana/globa
 - GitHub
 
 ## Author
-
-Hajra
+Hajra Batool

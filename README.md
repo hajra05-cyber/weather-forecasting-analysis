@@ -72,4 +72,4 @@ World Weather Repository: https://www.kaggle.com/datasets/nelgiriyewithana/globa
 
 ## Author
 
-Your Name
+Hajra
